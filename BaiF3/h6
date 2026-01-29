@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>h6</title>
+    </head>
+    <body>
+        <h1><strong>Các Hoạt động đã tham gia</strong></h1>
+        <hr>
+        <p><ul>
+            <li>Giải kéo co</li>
+            <li>Cuộc thi vui học tập</li>
+            <li>Hội thi văn nghệ</li>
+        </ul></p>
+        <h1><strong>Lịch sinh hoạt hằng tuần</strong></h1>
+        <hr>
+        <table border="1" cellspacing="0">
+            <tr>
+                <th></th>
+                <th>Thứ Hai</th>
+                <th>Thứ Ba</th>
+                <th>Thứ Tư</th>
+            </tr>
+            <tr>
+                <td>Sáng</td>
+                <td>Học chính khoá</td>
+                <td>Học chính khoá</td>
+                <td>Học chính khoá</td>
+            </tr>
+            <tr>
+                <td>Chiều</td>
+                <td>Học chính khoá</td>
+                <td>Học chính khoá</td>
+                <td>CLB Tin học</td>
+            </tr>
+        </table>
+        <h1><strong>Những trang web thường ghé thăm</strong></h1>
+        <hr>
+        <ul>
+            <li>Chân trời sáng tạo:</li>
+                <iframe src="https://chantroisangtao.com.vn" width="80%" height="500"></iframe>
+        </ul>
+    </body>
+</html>
